@@ -1,0 +1,70 @@
+body{margin: 0;}
+header{ background-color: whitesmoke;
+		padding: 20px 0; }
+
+.container{width: 1200px;
+			margin: 0 auto;
+			overflow: hidden;}
+.logo{width: 20%;
+	  float: left;
+	   }
+.logo img{}
+nav{width: 80%;
+	float:left;
+	}
+nav ul{margin: 0;
+		padding: 0;
+		text-align: right;
+	}
+nav ul li{ list-style: none;
+			display: inline-block;
+		  }
+nav ul li a{text-decoration: none;
+		 text-transform: uppercase;
+		 color: #b1acac;
+		 padding: 20px 20px;
+		 display: block;}
+.banner-section{}
+.banner-section img{
+	width: 100%;
+}
+
+.blog-section {}
+article {padding: 50px 10px;}
+article span{text-transform: uppercase;
+			color: #b1acac;
+			font-size: 18px;}
+article h1{text-transform: capitalize;
+			font-size: 30px;
+			}
+article p{
+			color: #716d6d;
+			font-size: 22px;
+			text-align: justify;
+			line-height: 1.5;
+			}
+article a{text-transform: uppercase;
+			color: #b1acac;
+			font-size: 18px;
+			text-decoration: none;}
+.left 	{
+		width: 500px;
+		float:  right;
+		}
+.right  {width: 500px;
+	}
+.Bottom-left{
+    padding: 33px 20px;
+    margin: 20px 1px;
+    background-color:  whitesmoke;
+}
+
+.fotr-abc{width: 91%;margin: auto;padding: 10px;
+}
+
+.fotr{width: 76%;float:left;}
+.social-media{
+	float: left;
+	width: 60%;
+	padding: 0 5px;
+}
